@@ -1,0 +1,13 @@
+
+build:
+  version: 3.0
+
+
+accounts:
+  message: "Welcome to Easy Bank Loans Section"
+  contactDetails:
+    name: "Nischal Timisna"
+    email: "itstnischal@gmail.com"
+  onCallSupport:
+    - (940) 435-8688
+    - (469) 345-9084

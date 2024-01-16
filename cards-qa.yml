@@ -1,0 +1,14 @@
+cards:
+  message: "Welcome to Easy Bank Card --QA Section"
+  contactDetails:
+    name: "Prasamsha Sharma"
+    email: "prasansha@gmail.com"
+  onCallSupport:
+    - (940) 435-8688
+    - (469) 345-9084
+build:
+  version: 2.0
+spring:
+  config:
+    activate:
+      on-profile: "qa"

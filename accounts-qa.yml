@@ -1,0 +1,14 @@
+build:
+  version: 2.0
+accounts:
+  message: "Welcome to Easy Bank Account Section--- QA Section"
+  contactDetails:
+    name: "Asim Timisna"
+    email: "asim@gmail.com"
+  onCallSupport:
+    - (940) 435-8688
+    - (469) 345-9084
+spring:
+  config:
+    activate:
+      on-profile: "qa"

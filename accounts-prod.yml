@@ -1,0 +1,14 @@
+accounts:
+  message: "Welcome to Easy Bank Account Section--- PROD Section"
+  contactDetails:
+    name: "Bikash Shah"
+    email: "Bikash222@gmail.com"
+  onCallSupport:
+    - (940) 435-8688
+    - (469) 345-9084
+build:
+  version: 1.0
+spring:
+  config:
+    activate:
+      on-profile: "prod"

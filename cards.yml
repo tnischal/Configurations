@@ -1,0 +1,15 @@
+accounts:
+  message: "Welcome to Easy Bank Card Section"
+  contactDetails:
+    name: "Nikhil Sharma"
+    email: "nikhilceeg@gmail.com"
+  onCallSupport:
+    - (940) 435-8688
+    - (469) 345-9084
+build:
+  version: 3.0
+
+
+
+
+
