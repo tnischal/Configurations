@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 
-accounts:
+loans:
   message: "Welcome to Easy Bank Loans Section"
   contactDetails:
     name: "Nischal Timisna"
