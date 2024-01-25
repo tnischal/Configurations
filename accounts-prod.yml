@@ -1,7 +1,7 @@
 accounts:
   message: "Welcome to Easy Bank Account Section--- PROD Section"
   contactDetails:
-    name: "Chatur Rama Lingam"
+    name: "Rancho"
     email: "{cipher}bbd839af1b7161645e12dd8de99fd5d637e2403347b4e87252eedcafd216af9335b494e66a8408e449e69e0ee82d7fe6"
   onCallSupport:
     - (940) 435-8688
