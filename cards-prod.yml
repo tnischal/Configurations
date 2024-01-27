@@ -1,11 +1,11 @@
 cards:
   message: "Welcome to Easy Bank Card --Prod Section"
   contactDetails:
-    name: "Paras Sharma, k cha halkhabar"
+    name: "Paras Sharma"
     email: "paras@gmail.com"
   onCallSupport:
     - (940) 435-8688
-    - (469) 345-764567
+    - (469) 345-5656
 build:
   version: 1.0
 spring:
