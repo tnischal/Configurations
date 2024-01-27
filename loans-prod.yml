@@ -4,8 +4,8 @@ loans:
     name: "Anita Shah Thikai cha "
     email: "anita@gmail.com"
   onCallSupport:
-    - (940) 435-11111
-    - (469) 345-6666
+    - (940) 435-8790
+    - (469) 345-2222
 build:
   version: 1.0
 spring:
